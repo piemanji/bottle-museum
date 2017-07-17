@@ -1,0 +1,9 @@
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\bin\Debug\netcoreapp1.1\BottleMuseum.Website.deps.json
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\bin\Debug\netcoreapp1.1\BottleMuseum.Website.runtimeconfig.json
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\bin\Debug\netcoreapp1.1\BottleMuseum.Website.runtimeconfig.dev.json
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\bin\Debug\netcoreapp1.1\BottleMuseum.Website.dll
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\bin\Debug\netcoreapp1.1\BottleMuseum.Website.pdb
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\obj\Debug\netcoreapp1.1\BottleMuseum.Website.AssemblyInfo.cs
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\obj\Debug\netcoreapp1.1\BottleMuseum.Website.dll
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\obj\Debug\netcoreapp1.1\BottleMuseum.Website.pdb
+C:\dev\bottle-museum\BottleMuseum\BottleMuseum.Website\obj\Debug\netcoreapp1.1\BottleMuseum.Website.csprojResolveAssemblyReference.cache
